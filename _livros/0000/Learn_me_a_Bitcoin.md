@@ -1,4 +1,4 @@
----
+
 title: "Learn me a Bitcoin: How Does Bitcoin Work?"
 authors:
 - Greg Walker
